@@ -1,1 +1,2 @@
 # Module_2
+This was really tough. I am having so much fun with Python, but I hope I never have to use VBA again! I will be honest, I walked through most of the homeowrk with prof during office hours. As I did that, I did start to understand the order of how functions work and how everything needs to be procedural. This helped me plan out my next moves beforehand on scratch paper. I want to improve on commenting in my next moves, but I need to adjust how I lay out my functions to make it more readable. 
